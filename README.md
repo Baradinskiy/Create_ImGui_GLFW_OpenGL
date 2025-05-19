@@ -152,8 +152,8 @@ target_link_libraries(${PROJECT_NAME}
 1. Склонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/yourname/yourproject.git
-   cd yourproject
+   git clone https://github.com/Baradinskiy/Create_ImGui_GLFW_OpenGL.git
+   cd Create_ImGui_GLFW_OpenGL
    ```
 
 2. Создайте папку сборки и соберите проект:
